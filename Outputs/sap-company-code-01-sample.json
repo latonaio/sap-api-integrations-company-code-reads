@@ -1,0 +1,31 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-company-code-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-company-code-reads/SAP_API_Caller.(*SAPAPICaller).CompanyCode",
+	"level": "INFO",
+	"message": [
+		{
+			"CompanyCode": "0001",
+			"CompanyCodeName": "SAP A.G.",
+			"CityName": "Walldorf",
+			"Country": "DE",
+			"Currency": "EUR",
+			"Language": "DE",
+			"ChartOfAccounts": "INT",
+			"FiscalYearVariant": "K4",
+			"Company": "",
+			"CreditControlArea": "0001",
+			"CountryChartOfAccounts": "",
+			"FinancialManagementArea": "0001",
+			"AddressID": "",
+			"TaxableEntity": "0001",
+			"VATRegistration": "",
+			"ExtendedWhldgTaxIsActive": false,
+			"ControllingArea": "0001",
+			"FieldStatusVariant": "0001",
+			"NonTaxableTransactionTaxCode": "A0",
+			"DocDateIsUsedForTaxDetn": false,
+			"TaxRptgDateIsActive": false
+		}
+	],
+	"time": "2022-09-11T10:51:45+09:00"
+}

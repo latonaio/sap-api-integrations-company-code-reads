@@ -1,0 +1,33 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"CompanyCode": {
+	    "CompanyCode": "",
+        "CompanyCodeName": "SAP",
+     	"CityName": "",
+        "Country": "",
+        "Currency": "",
+        "Language": "",
+        "ChartOfAccounts": "",
+        "FiscalYearVariant": "",
+        "Company": "",
+        "CreditControlArea": "",
+        "CountryChartOfAccounts": "",
+        "FinancialManagementArea": "",
+        "AddressID": "",
+        "TaxableEntity": "",
+        "VATRegistration": "",
+        "ExtendedWhldgTaxIsActive": null,
+        "ControllingArea": "",
+        "FieldStatusVariant": "",
+        "NonTaxableTransactionTaxCode": "",
+        "DocDateIsUsedForTaxDetn": null,
+        "TaxRptgDateIsActive": null
+	},
+	"api_schema": "SAPCompanyCodeReads",
+	"accepter": ["CompanyCodeName"],
+	"company_code_no": "",
+	"deleted": false
+}
